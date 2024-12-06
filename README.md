@@ -1,4 +1,4 @@
-# Fortran codes for spherical harmonic synthesis of all-element gravity field from global geopotential coefficient model
+## Fortran codes for spherical harmonic synthesis of all-element gravity field from global geopotential coefficient model
 https://www.zcyphygeodesy.com/en/h-nd-120.html
 ## [Algorithm purpose]
     From global geopotential coefficient model, calculate the model value of the height anomaly (m), gravity anomaly (mGal), gravity disturbance (mGal), vertical deflection vector (ʺ, south, west), disturbing gravity gradient (E, radial), tangential gravity gradient vector (E, north, west) or Laplace operator (E).
