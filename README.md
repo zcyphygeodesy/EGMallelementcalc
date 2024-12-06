@@ -38,9 +38,9 @@ https://www.zcyphygeodesy.com/en/h-nd-120.html
     Return parameters: GRS(1:6)
 ## (7) Algorithm module for transforming ellipsoid geodetic coordinates into spherical coordinates
     BLH_RLAT(GRS,BLH,RLAT)
-# [For compile and link]
+## [For compile and link]
     Fortran90, 132 Columns fixed format. Fortran compiler for any operating system. No external link library required.
-# [Algorithmic formula] PAGravf4.5 User Reference https://www.zcyphygeodesy.com/en/
+## [Algorithmic formula] PAGravf4.5 User Reference https://www.zcyphygeodesy.com/en/
     7.2 Calculation formulas of Earth gravity field from geopotential coefficient model
     7.3 Algorithms of normalized associative Legendre function and its derivative
     It is suggested that at the poles of the earth, the vertical deflection westward and the horizontal gravity gradient westward are not defined, and the relative calculation results are meaningless.
