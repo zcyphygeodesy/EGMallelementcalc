@@ -44,4 +44,4 @@ https://www.zcyphygeodesy.com/en/h-nd-120.html
     7.2 Calculation formulas of Earth gravity field from geopotential coefficient model
     7.3 Algorithms of normalized associative Legendre function and its derivative
     It is suggested that at the poles of the earth, the vertical deflection westward and the horizontal gravity gradient westward are not defined, and the relative calculation results are meaningless.
-DOS executable test file and all input and output data.
+The zip compression package includes the test project in visual studio 2017 - intel fortran integrated environment, DOS executable test file and all input and output data.
