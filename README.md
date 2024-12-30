@@ -3,6 +3,7 @@ https://www.zcyphygeodesy.com/en/h-nd-120.html
 ## [Algorithm purpose]
     From global geopotential coefficient model, calculate the model value of the height anomaly (m), gravity anomaly (mGal), gravity disturbance (mGal), vertical deflection vector (ʺ, south, west), disturbing gravity gradient (E, radial), tangential gravity gradient vector (E, north, west) or Laplace operator (E).
     When the minimum and maximum degree n to be set is equal, the program calculates the contribution of the degree n geopotential coefficients to the anomalous gravity field element, which can be employed to analyze and evaluate the spectral and space properties of the geopotential coefficient model.
+![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAg6_zltwYo6N-j7QUwpQ047gg.jpg)
 ## [Main program for test entrance]
     GGMallelementgrfd.f90
     The record format of the input calculation point file: ID (point no / point name), longitude (decimal degrees), latitude (decimal degrees), ellipsoidal height (m)......
@@ -45,3 +46,4 @@ https://www.zcyphygeodesy.com/en/h-nd-120.html
     7.3 Algorithms of normalized associative Legendre function and its derivative
     It is suggested that at the poles of the earth, the vertical deflection westward and the horizontal gravity gradient westward are not defined, and the relative calculation results are meaningless.
 The zip compression package includes the test project in visual studio 2017 - intel fortran integrated environment, DOS executable test file and all input and output data.
+![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAg6_zltwYo0s2wtAcwpQ047gg.jpg)
